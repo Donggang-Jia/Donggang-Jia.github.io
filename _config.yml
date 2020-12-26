@@ -1,0 +1,7 @@
+title: Donggang jia # your name (or website title) here
+#logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  master student at University of Southampton ECS
+  <br><br>
+  <a href="https://jiadonggang.github.io/pdf/Resume.pdf">Resume</a>
+theme: jekyll-theme-minimal

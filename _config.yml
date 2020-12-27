@@ -1,14 +1,13 @@
 title: Donggang jia # your name (or website title) here
 #logo: "/images/logo.png?raw=true" # your photo (or logo) here
 
-author:
-email: donggangjia AT gmail.com
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  email:donggangjia@gmail.com
   <br><br>
   <a href="https://Donggang-Jia.github.io/projects">Projects</a>
   <br><br>
-  <a href="https://Donggang-Jia.github.io/Publications">Posts</a>
+  <a href="https://Donggang-Jia.github.io/publications">Publications</a>
   <br><br>
   <a href="https://Donggang-Jia.github.io/pdf/Resume.pdf">Resume</a>
 theme: jekyll-theme-minimal

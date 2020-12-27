@@ -2,8 +2,8 @@ title: Donggang jia # your name (or website title) here
 #logo: "/images/logo.png?raw=true" # your photo (or logo) here
 
 
-#description: > # your text below (remove <br> elements if you don't need line breaks)
-#email:donggangjia@gmail.com
-#theme: jekyll-theme-architect
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  email:donggangjia@gmail.com
+
 
 theme: jekyll-theme-slate

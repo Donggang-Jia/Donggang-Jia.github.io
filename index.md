@@ -15,8 +15,6 @@ I spent summer 2020 at [Deepwise](http://www.deepwise.com) as a machine learning
 
 ## Projects
 
----
-
 ### Medical Image Analysis
 
 [Medical Image Segmentation](https://github.com/Donggang-Jia/Medical-Image-Segmentation)
@@ -31,7 +29,6 @@ I spent summer 2020 at [Deepwise](http://www.deepwise.com) as a machine learning
 
 ## Publications
 
----
 
 [1] Donggang Jia, Xiaohao Cai. A Hybrid Neural Network for Medical Image Segmentation. (under review)
 

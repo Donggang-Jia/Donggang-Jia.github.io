@@ -5,11 +5,10 @@ author:
 email: donggangjia AT gmail.com
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I received B.S. degree in Computer Science and Technology at The University of Posts and Telecommunications and M.S. degree in Artificial Intelligence at The University of Southampton in 2019 and 2020
   <br><br>
-  <a href="https://Donggang-Jia.github.io/">Projects</a>
+  <a href="https://Donggang-Jia.github.io/projects">Projects</a>
   <br><br>
-  <a href="https://Donggang-Jia.github.io/posts">Posts</a>
+  <a href="https://Donggang-Jia.github.io/Publications">Posts</a>
   <br><br>
   <a href="https://Donggang-Jia.github.io/pdf/Resume.pdf">Resume</a>
 theme: jekyll-theme-minimal

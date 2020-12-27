@@ -20,7 +20,7 @@ I spent summer 2020 at [Deepwise](http://www.deepwise.com) as a machine learning
 
 ---
 
-Aortic Dissection Detection
+### Aortic Dissection Detection
 <img src="images/aortic.png?raw=true"/>
 
 ---

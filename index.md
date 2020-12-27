@@ -4,7 +4,7 @@
 
 ### Medical image analysis
 
-[Medical Image Segmentation](/pdf/3D-face.pdf)
+[Medical Image Segmentation](https://github.com/jiadonggang/Medical-Image-Segmentation)
 <img src="images/segmentation.png?raw=true"/>
 
 ---

@@ -1,4 +1,4 @@
-My name is Donggang Jia. I am now a master student in Artificial Intelligence at The University of Southampton. Previously, I received my Bachelor's degree in Computer Science and Technology at The University of Posts and Telecommunications in 2019.
+My name is Donggang Jia. I received my Master's degree in Artificial Intelligence at The University of Southampton in 2020. Previously, I received my Bachelor's degree in Computer Science and Technology at The University of Posts and Telecommunications in 2019.
 
 I am interested in medical imaging, computer vision and deep learning.
 
